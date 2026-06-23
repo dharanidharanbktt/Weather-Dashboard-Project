@@ -46,10 +46,8 @@ h2{
 
 <div class="container">
     <h2>🌤 Weather Dashboard</h2>
-
     <input type="text" id="city" placeholder="Enter City">
     <button onclick="getWeather()">Search</button>
-
     <div class="weather">
         <h3 id="cityName"></h3>
         <p id="temp"></p>
